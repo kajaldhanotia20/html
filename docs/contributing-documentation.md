@@ -60,7 +60,8 @@ When making a contribution, these editorial conventions should be followed.
 
 * Use the active voice;
 * Use the present tense;
-* Be concise.
+* Be concise and precise;
+* Do not repeat words and tags;
 
 ### Formatting conventions
 * Line wrap at column `100` to keep lines easily readable
