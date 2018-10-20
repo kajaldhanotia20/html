@@ -126,6 +126,8 @@ vs.
 <p>newline separator</p>
 
 <p>between paragraphs</p>
+
+<p>between paragraphs</p>
 ```
 
 ### Linking conventions
